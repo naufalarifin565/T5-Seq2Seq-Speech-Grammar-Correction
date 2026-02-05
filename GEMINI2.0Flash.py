@@ -8,7 +8,7 @@ import time                                  # Delay/wait handling
 
 # Configuration: API keys & model setup
 # Konfigurasi Gemini 2.0 STT 
-GOOGLE_API_KEY = "AIzaSyCYHojfGvnB7X6qCAzN_wR_u0Eq4xIQi8c"
+GOOGLE_API_KEY = ""
 MODEL_ID        = "models/gemini-2.0-flash"
 LANGUAGE_PROMPT = "Transcribe the following audio in English:"
 
